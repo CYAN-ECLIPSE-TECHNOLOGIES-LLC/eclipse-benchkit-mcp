@@ -1,0 +1,51 @@
+{
+ "server": {
+  "server_id": "flaky",
+  "version": "1.0.0"
+ },
+ "checks": [
+  {
+   "check_id": "chk-flaky-01",
+   "tool": "check_tool",
+   "input": {
+    "n": 1
+   }
+  },
+  {
+   "check_id": "chk-flaky-02",
+   "tool": "check_tool",
+   "input": {
+    "n": 2
+   }
+  },
+  {
+   "check_id": "chk-flaky-03",
+   "tool": "check_tool",
+   "input": {
+    "n": 3
+   },
+   "determinism_class": "non-deterministic"
+  },
+  {
+   "check_id": "chk-flaky-04",
+   "tool": "check_tool",
+   "input": {
+    "n": 4
+   }
+  },
+  {
+   "check_id": "chk-flaky-05",
+   "tool": "check_tool",
+   "input": {
+    "n": 5
+   }
+  },
+  {
+   "check_id": "chk-flaky-06",
+   "tool": "check_tool",
+   "input": {
+    "n": 6
+   }
+  }
+ ]
+}

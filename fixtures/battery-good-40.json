@@ -1,0 +1,288 @@
+{
+ "server": {
+  "server_id": "good",
+  "version": "1.0.0"
+ },
+ "checks": [
+  {
+   "check_id": "chk-good-01",
+   "tool": "check_tool",
+   "input": {
+    "n": 1
+   }
+  },
+  {
+   "check_id": "chk-good-02",
+   "tool": "check_tool",
+   "input": {
+    "n": 2
+   }
+  },
+  {
+   "check_id": "chk-good-03",
+   "tool": "check_tool",
+   "input": {
+    "n": 3
+   }
+  },
+  {
+   "check_id": "chk-good-04",
+   "tool": "check_tool",
+   "input": {
+    "n": 4
+   }
+  },
+  {
+   "check_id": "chk-good-05",
+   "tool": "check_tool",
+   "input": {
+    "n": 5
+   }
+  },
+  {
+   "check_id": "chk-good-06",
+   "tool": "check_tool",
+   "input": {
+    "n": 6
+   }
+  },
+  {
+   "check_id": "chk-good-07",
+   "tool": "check_tool",
+   "input": {
+    "n": 7
+   }
+  },
+  {
+   "check_id": "chk-good-08",
+   "tool": "check_tool",
+   "input": {
+    "n": 8
+   }
+  },
+  {
+   "check_id": "chk-good-09",
+   "tool": "check_tool",
+   "input": {
+    "n": 9
+   }
+  },
+  {
+   "check_id": "chk-good-10",
+   "tool": "check_tool",
+   "input": {
+    "n": 10
+   }
+  },
+  {
+   "check_id": "chk-good-11",
+   "tool": "check_tool",
+   "input": {
+    "n": 11
+   }
+  },
+  {
+   "check_id": "chk-good-12",
+   "tool": "check_tool",
+   "input": {
+    "n": 12
+   }
+  },
+  {
+   "check_id": "chk-good-13",
+   "tool": "check_tool",
+   "input": {
+    "n": 13
+   }
+  },
+  {
+   "check_id": "chk-good-14",
+   "tool": "check_tool",
+   "input": {
+    "n": 14
+   }
+  },
+  {
+   "check_id": "chk-good-15",
+   "tool": "check_tool",
+   "input": {
+    "n": 15
+   }
+  },
+  {
+   "check_id": "chk-good-16",
+   "tool": "check_tool",
+   "input": {
+    "n": 16
+   }
+  },
+  {
+   "check_id": "chk-good-17",
+   "tool": "check_tool",
+   "input": {
+    "n": 17
+   }
+  },
+  {
+   "check_id": "chk-good-18",
+   "tool": "check_tool",
+   "input": {
+    "n": 18
+   }
+  },
+  {
+   "check_id": "chk-good-19",
+   "tool": "check_tool",
+   "input": {
+    "n": 19
+   }
+  },
+  {
+   "check_id": "chk-good-20",
+   "tool": "check_tool",
+   "input": {
+    "n": 20
+   }
+  },
+  {
+   "check_id": "chk-good-21",
+   "tool": "check_tool",
+   "input": {
+    "n": 21
+   }
+  },
+  {
+   "check_id": "chk-good-22",
+   "tool": "check_tool",
+   "input": {
+    "n": 22
+   }
+  },
+  {
+   "check_id": "chk-good-23",
+   "tool": "check_tool",
+   "input": {
+    "n": 23
+   }
+  },
+  {
+   "check_id": "chk-good-24",
+   "tool": "check_tool",
+   "input": {
+    "n": 24
+   }
+  },
+  {
+   "check_id": "chk-good-25",
+   "tool": "check_tool",
+   "input": {
+    "n": 25
+   }
+  },
+  {
+   "check_id": "chk-good-26",
+   "tool": "check_tool",
+   "input": {
+    "n": 26
+   }
+  },
+  {
+   "check_id": "chk-good-27",
+   "tool": "check_tool",
+   "input": {
+    "n": 27
+   }
+  },
+  {
+   "check_id": "chk-good-28",
+   "tool": "check_tool",
+   "input": {
+    "n": 28
+   }
+  },
+  {
+   "check_id": "chk-good-29",
+   "tool": "check_tool",
+   "input": {
+    "n": 29
+   }
+  },
+  {
+   "check_id": "chk-good-30",
+   "tool": "check_tool",
+   "input": {
+    "n": 30
+   }
+  },
+  {
+   "check_id": "chk-good-31",
+   "tool": "check_tool",
+   "input": {
+    "n": 31
+   }
+  },
+  {
+   "check_id": "chk-good-32",
+   "tool": "check_tool",
+   "input": {
+    "n": 32
+   }
+  },
+  {
+   "check_id": "chk-good-33",
+   "tool": "check_tool",
+   "input": {
+    "n": 33
+   }
+  },
+  {
+   "check_id": "chk-good-34",
+   "tool": "check_tool",
+   "input": {
+    "n": 34
+   }
+  },
+  {
+   "check_id": "chk-good-35",
+   "tool": "check_tool",
+   "input": {
+    "n": 35
+   }
+  },
+  {
+   "check_id": "chk-good-36",
+   "tool": "check_tool",
+   "input": {
+    "n": 36
+   }
+  },
+  {
+   "check_id": "chk-good-37",
+   "tool": "check_tool",
+   "input": {
+    "n": 37
+   }
+  },
+  {
+   "check_id": "chk-good-38",
+   "tool": "check_tool",
+   "input": {
+    "n": 38
+   }
+  },
+  {
+   "check_id": "chk-good-39",
+   "tool": "check_tool",
+   "input": {
+    "n": 39
+   }
+  },
+  {
+   "check_id": "chk-good-40",
+   "tool": "check_tool",
+   "input": {
+    "n": 40
+   }
+  }
+ ]
+}

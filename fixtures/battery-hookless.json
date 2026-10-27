@@ -1,0 +1,97 @@
+{
+ "server": {
+  "server_id": "good",
+  "version": "1.0.0"
+ },
+ "checks": [
+  {
+   "check_id": "chk-hook-01",
+   "tool": "check_tool",
+   "input": {
+    "n": 1
+   },
+   "hookless": true
+  },
+  {
+   "check_id": "chk-hook-02",
+   "tool": "check_tool",
+   "input": {
+    "n": 2
+   },
+   "hookless": true
+  },
+  {
+   "check_id": "chk-hook-03",
+   "tool": "check_tool",
+   "input": {
+    "n": 3
+   },
+   "hookless": true
+  },
+  {
+   "check_id": "chk-hook-04",
+   "tool": "check_tool",
+   "input": {
+    "n": 4
+   },
+   "hookless": true
+  },
+  {
+   "check_id": "chk-hook-05",
+   "tool": "check_tool",
+   "input": {
+    "n": 5
+   },
+   "hookless": true
+  },
+  {
+   "check_id": "chk-hook-06",
+   "tool": "check_tool",
+   "input": {
+    "n": 6
+   }
+  },
+  {
+   "check_id": "chk-hook-07",
+   "tool": "check_tool",
+   "input": {
+    "n": 7
+   }
+  },
+  {
+   "check_id": "chk-hook-08",
+   "tool": "check_tool",
+   "input": {
+    "n": 8
+   }
+  },
+  {
+   "check_id": "chk-hook-09",
+   "tool": "check_tool",
+   "input": {
+    "n": 9
+   }
+  },
+  {
+   "check_id": "chk-hook-10",
+   "tool": "check_tool",
+   "input": {
+    "n": 10
+   }
+  },
+  {
+   "check_id": "chk-hook-11",
+   "tool": "check_tool",
+   "input": {
+    "n": 11
+   }
+  },
+  {
+   "check_id": "chk-hook-12",
+   "tool": "check_tool",
+   "input": {
+    "n": 12
+   }
+  }
+ ]
+}

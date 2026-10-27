@@ -1,0 +1,64 @@
+{
+ "server": {
+  "server_id": "good",
+  "version": "1.0.0"
+ },
+ "checks": [
+  {
+   "check_id": "chk-small-01",
+   "tool": "check_tool",
+   "input": {
+    "n": 1
+   }
+  },
+  {
+   "check_id": "chk-small-02",
+   "tool": "check_tool",
+   "input": {
+    "n": 2
+   }
+  },
+  {
+   "check_id": "chk-small-03",
+   "tool": "check_tool",
+   "input": {
+    "n": 3
+   }
+  },
+  {
+   "check_id": "chk-small-04",
+   "tool": "check_tool",
+   "input": {
+    "n": 4
+   }
+  },
+  {
+   "check_id": "chk-small-05",
+   "tool": "check_tool",
+   "input": {
+    "n": 5
+   }
+  },
+  {
+   "check_id": "chk-small-06",
+   "tool": "check_tool",
+   "input": {
+    "n": 6
+   }
+  },
+  {
+   "check_id": "chk-small-07",
+   "tool": "check_tool",
+   "input": {
+    "n": 7
+   }
+  },
+  {
+   "check_id": "chk-small-08",
+   "tool": "check_tool",
+   "input": {
+    "n": 8
+   }
+  }
+ ]
+}

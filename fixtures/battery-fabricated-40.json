@@ -1,0 +1,300 @@
+{
+ "server": {
+  "server_id": "fabricated-source",
+  "version": "1.0.0"
+ },
+ "checks": [
+  {
+   "check_id": "chk-fab-01",
+   "tool": "check_tool",
+   "input": {
+    "n": 1
+   },
+   "fabricated": true
+  },
+  {
+   "check_id": "chk-fab-02",
+   "tool": "check_tool",
+   "input": {
+    "n": 2
+   },
+   "fabricated": true
+  },
+  {
+   "check_id": "chk-fab-03",
+   "tool": "check_tool",
+   "input": {
+    "n": 3
+   },
+   "fabricated": true
+  },
+  {
+   "check_id": "chk-fab-04",
+   "tool": "check_tool",
+   "input": {
+    "n": 4
+   },
+   "fabricated": true
+  },
+  {
+   "check_id": "chk-fab-05",
+   "tool": "check_tool",
+   "input": {
+    "n": 5
+   },
+   "fabricated": true
+  },
+  {
+   "check_id": "chk-fab-06",
+   "tool": "check_tool",
+   "input": {
+    "n": 6
+   },
+   "fabricated": true
+  },
+  {
+   "check_id": "chk-fab-07",
+   "tool": "check_tool",
+   "input": {
+    "n": 7
+   },
+   "fabricated": true
+  },
+  {
+   "check_id": "chk-fab-08",
+   "tool": "check_tool",
+   "input": {
+    "n": 8
+   },
+   "fabricated": true
+  },
+  {
+   "check_id": "chk-fab-09",
+   "tool": "check_tool",
+   "input": {
+    "n": 9
+   },
+   "fabricated": true
+  },
+  {
+   "check_id": "chk-fab-10",
+   "tool": "check_tool",
+   "input": {
+    "n": 10
+   },
+   "fabricated": true
+  },
+  {
+   "check_id": "chk-fab-11",
+   "tool": "check_tool",
+   "input": {
+    "n": 11
+   },
+   "fabricated": true
+  },
+  {
+   "check_id": "chk-fab-12",
+   "tool": "check_tool",
+   "input": {
+    "n": 12
+   },
+   "fabricated": true
+  },
+  {
+   "check_id": "chk-fab-13",
+   "tool": "check_tool",
+   "input": {
+    "n": 13
+   }
+  },
+  {
+   "check_id": "chk-fab-14",
+   "tool": "check_tool",
+   "input": {
+    "n": 14
+   }
+  },
+  {
+   "check_id": "chk-fab-15",
+   "tool": "check_tool",
+   "input": {
+    "n": 15
+   }
+  },
+  {
+   "check_id": "chk-fab-16",
+   "tool": "check_tool",
+   "input": {
+    "n": 16
+   }
+  },
+  {
+   "check_id": "chk-fab-17",
+   "tool": "check_tool",
+   "input": {
+    "n": 17
+   }
+  },
+  {
+   "check_id": "chk-fab-18",
+   "tool": "check_tool",
+   "input": {
+    "n": 18
+   }
+  },
+  {
+   "check_id": "chk-fab-19",
+   "tool": "check_tool",
+   "input": {
+    "n": 19
+   }
+  },
+  {
+   "check_id": "chk-fab-20",
+   "tool": "check_tool",
+   "input": {
+    "n": 20
+   }
+  },
+  {
+   "check_id": "chk-fab-21",
+   "tool": "check_tool",
+   "input": {
+    "n": 21
+   }
+  },
+  {
+   "check_id": "chk-fab-22",
+   "tool": "check_tool",
+   "input": {
+    "n": 22
+   }
+  },
+  {
+   "check_id": "chk-fab-23",
+   "tool": "check_tool",
+   "input": {
+    "n": 23
+   }
+  },
+  {
+   "check_id": "chk-fab-24",
+   "tool": "check_tool",
+   "input": {
+    "n": 24
+   }
+  },
+  {
+   "check_id": "chk-fab-25",
+   "tool": "check_tool",
+   "input": {
+    "n": 25
+   }
+  },
+  {
+   "check_id": "chk-fab-26",
+   "tool": "check_tool",
+   "input": {
+    "n": 26
+   }
+  },
+  {
+   "check_id": "chk-fab-27",
+   "tool": "check_tool",
+   "input": {
+    "n": 27
+   }
+  },
+  {
+   "check_id": "chk-fab-28",
+   "tool": "check_tool",
+   "input": {
+    "n": 28
+   }
+  },
+  {
+   "check_id": "chk-fab-29",
+   "tool": "check_tool",
+   "input": {
+    "n": 29
+   }
+  },
+  {
+   "check_id": "chk-fab-30",
+   "tool": "check_tool",
+   "input": {
+    "n": 30
+   }
+  },
+  {
+   "check_id": "chk-fab-31",
+   "tool": "check_tool",
+   "input": {
+    "n": 31
+   }
+  },
+  {
+   "check_id": "chk-fab-32",
+   "tool": "check_tool",
+   "input": {
+    "n": 32
+   }
+  },
+  {
+   "check_id": "chk-fab-33",
+   "tool": "check_tool",
+   "input": {
+    "n": 33
+   }
+  },
+  {
+   "check_id": "chk-fab-34",
+   "tool": "check_tool",
+   "input": {
+    "n": 34
+   }
+  },
+  {
+   "check_id": "chk-fab-35",
+   "tool": "check_tool",
+   "input": {
+    "n": 35
+   }
+  },
+  {
+   "check_id": "chk-fab-36",
+   "tool": "check_tool",
+   "input": {
+    "n": 36
+   }
+  },
+  {
+   "check_id": "chk-fab-37",
+   "tool": "check_tool",
+   "input": {
+    "n": 37
+   }
+  },
+  {
+   "check_id": "chk-fab-38",
+   "tool": "check_tool",
+   "input": {
+    "n": 38
+   }
+  },
+  {
+   "check_id": "chk-fab-39",
+   "tool": "check_tool",
+   "input": {
+    "n": 39
+   }
+  },
+  {
+   "check_id": "chk-fab-40",
+   "tool": "check_tool",
+   "input": {
+    "n": 40
+   }
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "server": {
+  "server_id": "good",
+  "version": "1.0.0"
+ },
+ "checks": [
+  {
+   "check_id": "chk-fail-01",
+   "tool": "check_tool",
+   "input": {
+    "n": 1
+   }
+  },
+  {
+   "check_id": "chk-fail-02",
+   "tool": "check_tool",
+   "input": {
+    "n": 2,
+    "result": "fail"
+   }
+  },
+  {
+   "check_id": "chk-fail-03",
+   "tool": "check_tool",
+   "input": {
+    "n": 3
+   }
+  },
+  {
+   "check_id": "chk-fail-04",
+   "tool": "check_tool",
+   "input": {
+    "n": 4
+   }
+  },
+  {
+   "check_id": "chk-fail-05",
+   "tool": "check_tool",
+   "input": {
+    "n": 5,
+    "result": "fail"
+   }
+  },
+  {
+   "check_id": "chk-fail-06",
+   "tool": "check_tool",
+   "input": {
+    "n": 6
+   }
+  },
+  {
+   "check_id": "chk-fail-07",
+   "tool": "check_tool",
+   "input": {
+    "n": 7,
+    "result": "fail"
+   }
+  },
+  {
+   "check_id": "chk-fail-08",
+   "tool": "check_tool",
+   "input": {
+    "n": 8
+   }
+  },
+  {
+   "check_id": "chk-fail-09",
+   "tool": "check_tool",
+   "input": {
+    "n": 9
+   }
+  },
+  {
+   "check_id": "chk-fail-10",
+   "tool": "check_tool",
+   "input": {
+    "n": 10
+   }
+  }
+ ]
+}

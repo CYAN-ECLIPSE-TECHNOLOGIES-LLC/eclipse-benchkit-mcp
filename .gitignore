@@ -1,0 +1,6 @@
+# Eclipse Benchkit - fixture key custody (spec 7.4): locally
+# generated fixture keys live in keys/ and are NEVER committed.
+keys/
+data/
+__pycache__/
+*.pyc
